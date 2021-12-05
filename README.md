@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━
 
-###☰ 15 years old
-###☰ Python, Web
-###☰ Backend-Developer
+☰ 15 years old
+☰ Python, Web
+☰ Backend-Developer
 
 ━━━━━━━━━━━━━━━━━━━━━━
