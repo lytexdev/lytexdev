@@ -15,7 +15,9 @@
 ![SQlite](https://img.shields.io/badge/-SQlite-333333?style=for-the-badge&logo=SQlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=MongoDB)
 
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-333333?style=for-the-badge&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm)
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=Docker)
 
