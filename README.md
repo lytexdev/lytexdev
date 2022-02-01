@@ -13,7 +13,6 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=MySQL)
 ![SQlite](https://img.shields.io/badge/-SQlite-333333?style=for-the-badge&logo=SQlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=MongoDB)
 
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-333333?style=for-the-badge&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm)
