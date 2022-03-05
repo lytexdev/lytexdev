@@ -1,8 +1,7 @@
 
 ### [Founder of LYTEX Development](https://github.com/immanuel-development)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ximmanuel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ### Languages and Tools I use
 
@@ -20,4 +19,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+
+
+---
 
