@@ -1,10 +1,5 @@
 
-## [Founder of LYTEX Development](https://github.com/immanuel-development)
-### [Contact: contact@immanuelm.de](mailto:contact@immanuelm.de)
-
-
-
-[![ximmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximmanuel&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### [Founder of LYTEX Development](https://github.com/immanuel-development)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ximmanuel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,7 +7,8 @@
 ### Languages and Tools I use
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=Javascript)
+![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
+![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=Typescript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
