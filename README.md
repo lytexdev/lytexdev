@@ -8,8 +8,10 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=Typescript)
+
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=SCSS)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=MySQL)
 ![SQlite](https://img.shields.io/badge/-SQlite-333333?style=for-the-badge&logo=SQlite)
