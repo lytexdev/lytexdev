@@ -8,6 +8,7 @@
 ### Languages and Tools I use
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=for-the-badge&logo=Node.js)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=Typescript)
