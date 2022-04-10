@@ -11,7 +11,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=MongoDB)
 ![SQlite](https://img.shields.io/badge/-SQlite-333333?style=for-the-badge&logo=SQlite)
 
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-333333?style=for-the-badge&logo=visualstudiocode)
