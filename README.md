@@ -6,8 +6,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java)
-![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
 
+![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
