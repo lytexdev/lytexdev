@@ -5,16 +5,15 @@
 ### Languages and Tools I use
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/-CSharp-333333?style=for-the-badge&logo=CSharp)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
-![MongoDB](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=MySQL)
-![SQlite](https://img.shields.io/badge/-SQlite-333333?style=for-the-badge&logo=SQlite)
-
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-333333?style=for-the-badge&logo=visualstudiocode)
+![Visual Studio](https://img.shields.io/badge/-visual%20studio-333333?style=for-the-badge&logo=visualstudio)
+
 ![Intellij](https://img.shields.io/badge/-intellij-333333?style=for-the-badge&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm)
 
