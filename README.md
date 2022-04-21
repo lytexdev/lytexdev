@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java)
-![C#](https://img.shields.io/badge/-C#-333333?style=for-the-badge&logo=CSharp)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=for-the-badge&logo=CSharp)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=Javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
