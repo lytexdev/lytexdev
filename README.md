@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3)
 
-### Code-Editor and Ideas
+### Code-Editors and Ideas
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-333333?style=for-the-badge&logo=visualstudiocode)
 ![Visual Studio](https://img.shields.io/badge/-visual%20studio-333333?style=for-the-badge&logo=visualstudio)
 
