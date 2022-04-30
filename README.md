@@ -11,7 +11,6 @@
 
 ### Code-Editors and Ideas
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-333333?style=for-the-badge&logo=visualstudiocode)
-![Visual Studio](https://img.shields.io/badge/-visual%20studio-333333?style=for-the-badge&logo=visualstudio)
 
 ![Intellij](https://img.shields.io/badge/-intellij-333333?style=for-the-badge&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm)
