@@ -13,7 +13,6 @@
 ### Frameworks
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=Bootstrap)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
