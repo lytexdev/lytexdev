@@ -13,12 +13,7 @@
 ### Frameworks
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=for-the-badge&logo=vue.js)
-
-### Code-Editors and Ideas
-![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-333333?style=for-the-badge&logo=visualstudiocode)
-
-![Intellij](https://img.shields.io/badge/-intellij-333333?style=for-the-badge&logo=intellij-idea)
-![PyCharm](https://img.shields.io/badge/-pycharm-333333?style=for-the-badge&logo=pycharm)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=Bootstrap)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
