@@ -1,0 +1,67 @@
+{
+  "name": "TestTemplate",
+  "author": "Immanuel Mruk",
+  "views": [
+     "@Storefront",
+     "@Plugins",
+     "@TestTemplate"
+  ],
+  "style": [
+    "app/storefront/src/scss/overrides.scss",
+    "@Storefront",
+    "app/storefront/src/scss/base.scss"
+  ],
+  "script": [
+    "@Storefront",
+    "app/storefront/dist/storefront/js/test-template.js"
+  ],
+  "asset": [
+    "@Storefront",
+    "app/storefront/src/assets"
+  ],
+  "config": {
+    "blocks": {
+      "js-Plugins": {
+        "label": {
+          "en-GB": "JavaScript Plugins",
+          "de-DE": "JavaScript Plugins"
+        }
+      }
+    },
+    "fields": {
+      "activateStickyHeader": {
+        "label": {
+          "en-GB": "Enable Sticky Header",
+          "de-DE": "Aktiviere Klebriger Kopfteil"
+        },
+        "type": "switch",
+        "custom": {
+          "bordered": true
+        },
+        "value": false,
+        "editable": true,
+        "block": "js-Plugins"
+      },
+      "showOnScrollPosition": {
+        "label": {
+          "en-GB": "Sticky Header Scrollposition",
+          "de-DE": "Klebriger Kopfteil Position"
+        },
+        "type": "int",
+        "value": 500,
+        "editable": true,
+        "block": "js-Plugins"
+      },
+      "changeAddingToCartBtn": {
+        "label": {
+          "en-GB": "Change the add to cart button animation",
+          "de-DE": "Ändere die Füge zu Warenkorb Knopfanimation"
+        },
+        "type": "text",
+        "value": "Wird in den Warenkorb gelegt",
+        "editable": true,
+        "block": "js-Plugins"
+      }
+    }
+  }
+}
