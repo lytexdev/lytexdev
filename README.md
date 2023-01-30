@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫  About Me:
 🌱  I’m currently learning more about shopware6<br>📫  How to reach me: Email - immanuel.mruk@8mylez.com
 
 
