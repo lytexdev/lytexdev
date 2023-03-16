@@ -1,5 +1,5 @@
 ## 💫  About Me:
-🌱  I’m currently learning more about shopware6<br>📫  How to reach me: Email - immanuel.mruk@8mylez.com
+🌱  I’m currently learning more about Shopware 6<br>📫  How to reach me: Email - immanuel.mruk@8mylez.com | Discord: immanuel#6114
 
 
 ## 🌐 Socials:
