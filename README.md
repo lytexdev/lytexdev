@@ -1,5 +1,5 @@
 ## 💫  About Me:
-🌱  I’m currently learning more about Shopware 6<br>📫  How to reach me: Email - immanuel.mruk@8mylez.com | Discord: ximmanuel
+🌱  I’m currently learning more about Shopware 6 and Flutter<br>📫  How to reach me: Email - immanuel.mruk@8mylez.com or Discord: ximmanuel
 
 
 ## 🌐 Socials:
