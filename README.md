@@ -1,5 +1,5 @@
 ## 💫  About Me:
-🌱  I’m currently learning more about Shopware 6 and Flutter<br>📫  How to reach me: Email - contact@lytexmedia.com or Discord: ximmanuel
+🌱  I’m currently learning more about E-Commerce: Shopware 6 & App Development: Flutter
 
 
 ## 🌐 Socials:
