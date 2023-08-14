@@ -1,5 +1,6 @@
 ## 💫  About Me:
-🌱  I’m currently learning more about E-Commerce: Shopware 6 & App Development: Flutter
+🌱  I’m currently learning more about E-Commerce: Shopware 6
+    and App Development: React Native
 
 
 ## 🌐 Socials:
