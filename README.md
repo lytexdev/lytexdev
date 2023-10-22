@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning more about **Shopware 6**
 
-- 📫 How to reach me **contact@lytexmedia.com** or Discord: **xImmanuel**
+- 📫 How to reach me **contact@lytexmedia.com** or Discord: **ximmanuel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
