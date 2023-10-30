@@ -1,7 +1,5 @@
 <h2>Hey I'm Immanuel 👋</h2>
 
-- 🔭 I’m currently working on [FocusUp](https://lytexmedia.com)
-
 - 🌱 I’m currently learning more about **Shopware 6**
 
 - 📫 How to reach me **contact@lytexmedia.com** or Discord: **ximmanuel**
