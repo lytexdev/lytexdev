@@ -1,5 +1,7 @@
 <h2>Hey I'm Immanuel 👋</h2>
 
+- ❣️ **I love AI!**
+
 - 🌱 I’m currently learning more about **Shopware 6**
 
 - 📫 How to reach me **contact@lytexmedia.com** or Discord: **ximmanuel**
