@@ -1,6 +1,6 @@
 <h2>Hey I'm Immanuel 👋</h2>
 
-- ❣️ **I love AI!**
+- 🤖 **I LOVE AI**
 
 - 🌱 I’m currently learning more about **Shopware 6**
 
