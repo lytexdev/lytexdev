@@ -24,6 +24,7 @@
 
 <h3>Backend</h3>
 <p>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="44" /></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" /></a>
