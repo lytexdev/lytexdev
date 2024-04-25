@@ -1,5 +1,4 @@
 <h2>Hey I'm Immanuel 👋</h2>
-17 years old<br>I like programming, gym, boxing
 
 - 🤖 **I love AI!**
 
