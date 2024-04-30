@@ -33,8 +33,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 </p>
 
-<h3>Tools</h3>
+<h3>Other</h3>
 <p>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331370%2Fdocker&psig=AOvVaw0jCgP-1SbWrXUckKTS_NnU&ust=1714548342404000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDqkrm06YUDFQAAAAAdAAAAABAJ" alt="docker" width="40" height="40" /></a>
   <a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/5f15081919fdf673994ab5fd/651f24a499bc8356ba844e0c_Webflow-Logo.svg" alt="webflow" width="40" height="40" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
