@@ -2,7 +2,7 @@
 
 ⚡ 17 years old
 
-🤖 **I love Artificial Intelligence!**
+🤖 **I love Artificial Intelligence and Cybersecurity!**
 
 📫 How to reach me **contact@lytexmedia.com** or Discord: **`_lytex_`**
 
