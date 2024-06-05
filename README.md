@@ -2,7 +2,7 @@
 
 ⚡ 17 years old
 
-🤖 **I love Artificial Intelligence and Cybersecurity!**
+🤖 I love AI and Cybersecurity!
 
 📫 How to reach me **contact@lytexmedia.com** or Discord: **`_lytex_`**
 
@@ -31,7 +31,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 </p>
 
-<h3>Tools I like and use :)</h3>
+<h3>Tools I like and use</h3>
 <p>
     <a href="#" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" /></a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="archlinux" width="40" height="40" /></a>
