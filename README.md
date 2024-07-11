@@ -2,7 +2,7 @@
 
 ⚡ 17 years old
 
-🤖 I love AI, programming and cybersecurity!
+🤖 I love AI and programming!
 
 🏠 Huge fan of homeserver stuff... If it can be self-hosted, I'm probably running it at home!
 
