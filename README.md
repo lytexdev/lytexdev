@@ -37,13 +37,13 @@
 
 <h3>Other technologies</h3>
 <p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="archlinux" width="40" height="40" /></a>
   <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" /></a>
   <a href="https://www.debian.org/index.de.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
   <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/obsidian-icon.svg" alt="obsidian" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
 </p>
 
 
