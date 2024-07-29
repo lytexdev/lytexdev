@@ -2,7 +2,7 @@
 
 ⚡ 17 years old
 
-🤖 I love cybersecurity & programming
+🤖 I like cybersecurity & programming
 
 🏠 Huge fan of homeserver stuff... If it can be self-hosted, I'm probably running it!
 
@@ -12,7 +12,7 @@
 ----------------------------------
 
 
-<h2>My Skills (or at least what I use) 😜</h2>
+<h2>My Skills (or at least what I use)</h2>
 
 <h3>Frontend</h3>
 <p>
