@@ -4,7 +4,7 @@
 
 🤖 I like programming & cybersecurity
 
-🏠 Huge fan of homeserver stuff... If it can be self-hosted, I'm probably running it!
+🏠 Huge fan of FOSS & Server stuff...
 
 📫 Reach me at **immanuelmruk@gmail.com** or find me on Discord: **`_lytex_`**
 
@@ -12,7 +12,7 @@
 ----------------------------------
 
 
-<h2>My Skills (or at least what I use)</h2>
+<h2>My Skills (or at least what I like to use)</h2>
 
 <h3>Frontend</h3>
 <p>
