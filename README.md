@@ -4,7 +4,7 @@
 
 🤖 I like programming & cybersecurity
 
-🏠 Huge fan of FOSS & Server stuff...
+🏠 Huge fan of FOSS & Homeserver stuff
 
 📫 Reach me at **immanuelmruk@gmail.com** or find me on Discord: **`_lytex_`**
 
@@ -43,7 +43,6 @@
   <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40" /></a>
   <a href="https://www.debian.org/index.de.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40" height="40" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="docker" width="40" height="40" /></a>
-  <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
 </p>
 
@@ -52,4 +51,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ximmanuel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ximmanuel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
