@@ -6,7 +6,7 @@
 
 🏠 Huge fan of FOSS & Homeserver stuff
 
-📫 Reach me at **immanuelmruk@gmail.com** or find me on Discord: **`_lytex_`**
+📫 Reach me at **immanuel@lytex.dev** or find me on Discord: **`_lytex_`**
 
 
 ----------------------------------
