@@ -8,9 +8,11 @@
 
 📫 Reach me at **immanuel@lytex.dev** or find me on Discord: **`_lytex_`**
 
+----------------------------------
+<h2>Portfolio</h2>
+<a href="https://lytex.dev" target="_blank" title="lytex.dev">lytex.dev</a>
 
 ----------------------------------
-
 
 <h2>My Skills (or at least what I like to use)</h2>
 
