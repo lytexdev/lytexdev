@@ -1,4 +1,4 @@
-<h2>Hey I'm Immanuel  <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
+<h2>Hey I'm Immanuel Mruk aka. lytex <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
 
 ⚡ 17 y/o Fullstack Developer
 
