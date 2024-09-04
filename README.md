@@ -10,7 +10,12 @@
 
 ----------------------------------
 <h2>Portfolio</h2>
+
 <a href="https://lytex.dev" target="_blank" title="lytex.dev">lytex.dev</a>
+
+**Onion link:**
+
+<a href="https://lytex.dev" target="_blank" title="sad4k54yg2gevlhel3sdtaw2wbreqlkbfsueihjpoxcas2o73ne5kbad.onion">sad4k54yg2gevlhel3sdtaw2wbreqlkbfsueihjpoxcas2o73ne5kbad.onion</a>
 
 ----------------------------------
 
