@@ -1,10 +1,10 @@
 <h2>Hey I'm Immanuel Mruk aka. lytex <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
 
-⚡ 17 y/o Fullstack Developer
+⚡ 17 y/o Fullstack Web-Developer
 
 🤖 I like programming & cybersecurity
 
-🏠 Huge fan of FOSS & Homeserver stuff
+🏠 Huge fan of FOSS & Linux 🐧
 
 📫 Reach me at **immanuel@lytex.dev** or find me on Discord: **`_lytex_`**
 
