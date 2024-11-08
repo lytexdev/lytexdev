@@ -1,10 +1,12 @@
 <h2>Hey I'm lytex <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
 
+🧅 Click: <a href="https://lytex.dev" target="_blank">lytex.dev</a>
+
 ⚡ 17 y/o Fullstack Web-Developer
 
 🤖 I like programming, server & cybersecurity
 
-☕ Coffee addicted and huge fan of FOSS & Linux 🐧
+☕ Coffee addicted and huge fan of Linux 🐧
 
 📫 Reach me at **immanuel@lytex.dev** || Discord: **`_lytex_`** || Telegram: **`llytexx`**
 
