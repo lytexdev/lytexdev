@@ -2,7 +2,7 @@
 
 🔺 **Click: <a href="https://lytex.dev" target="_blank">lytex.dev</a>**
 
-⚡ 17 y/o Fullstack Web-Developer
+⚡ 17 years
 
 🤖 I like programming, server & cybersecurity
 
