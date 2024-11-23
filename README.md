@@ -1,8 +1,6 @@
 <h2>Hey I'm lytex <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
 
-🔺 **Click: <a href="https://lytex.dev" target="_blank">lytex.dev</a>**
-
-⚡ 17 years
+🔺 **<a href="https://lytex.dev" target="_blank">lytex.dev</a>**
 
 🤖 I like programming, server & cybersecurity
 
