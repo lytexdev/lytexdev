@@ -1,10 +1,10 @@
-<h2>Hey I'm lytex <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
+<h2>Hey I'm lytexdev <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
 
 🔺 **<a href="https://lytex.dev" target="_blank">lytex.dev</a>** | **<a href="https://git.lytex.dev" target="_blank">git.lytex.dev</a>**
 
 ☕ Coffee addicted and huge fan of Linux 🐧
 
-📫 Reach me at **immanuel@lytex.dev** || Discord: **`_lytex_`** || Telegram: **`llytexx`**
+📫 Reach me at **immanuel@lytex.dev** || Discord: **`lytexdev`** || Telegram: **`lytexdev`**
 
 ----------------------------------
 
