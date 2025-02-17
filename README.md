@@ -4,7 +4,7 @@
 
 🔺 **<a href="https://lytex.dev" target="_blank">lytex.dev</a>** || **<a href="https://git.lytex.dev" target="_blank">git.lytex.dev</a>**
 
-☕ Coffee addicted and huge fan of Linux 🐧
+☕ Coffee addicted & huge fan of Linux 🐧
 
 📫 Reach me at **immanuel@lytex.dev** || Discord: **`lytexdev`** || Telegram: **`lytexdev`**
 
