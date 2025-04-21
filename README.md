@@ -1,15 +1,14 @@
-----------------------------------
+<h2>Hey, I'm lytexdev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h2>
 
-<h2>Hey I'm lytexdev <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h2>
+🔗 **My Website:** [lytex.dev](https://lytex.dev)
 
-🔺 **<a href="https://lytex.dev" target="_blank">lytex.dev</a>** || **<a href="https://git.lytex.dev" target="_blank">git.lytex.dev</a>**
+☕ Coffee addicted • 🐧 Linux-Lover
 
-☕ Coffee addicted & huge fan of Linux 🐧
+📬 **Contact:**  
+✉️ immanuel@lytex.dev  
+💬 Discord: `lytexdev`  
+📲 Telegram: `lytexdev`
 
-📫 Reach me at **immanuel@lytex.dev** || Discord: **`lytexdev`** || Telegram: **`lytexdev`**
+---
 
-----------------------------------
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lytexdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-----------------------------------
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lytexdev&theme=dark&hide_border=false&layout=compact)
