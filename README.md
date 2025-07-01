@@ -1,11 +1,14 @@
-<h2>Hey, I'm lytexdev <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h2>
+<h2>Hey, I'm Immanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h2>
 
-🔗 **My Website:** [lytex.dev](https://lytex.dev)
+🔗 **My Website:** [me.lytex.dev](https://me.lytex.dev)
 
-☕ Coffee addicted • 🐧 Linux-Lover
+• ☕ Caffeine addicted
+• 🐧 Linux Enthusiast
+• 🧬 Biohacking
 
 📬 **Contact:**  
-✉️ immanuel@lytex.dev  
+✉️ immanuel@lytex.dev
+📷 Instagram: `immanuelmruk`  
 💬 Discord: `lytexdev`  
 📲 Telegram: `lytexdev`
 
