@@ -7,10 +7,13 @@
 • 🧬 Biohacking
 
 📬 **Contact:**  
-✉️ immanuel@lytex.dev
-📷 Instagram: `immanuelmruk`  
-💬 Discord: `lytexdev`  
-📲 Telegram: `lytexdev`
+✉️ [immanuel@lytex.dev](mailto=immanuel@lytex.dev)
+
+🔗 LinkedIn: [immanuelmruk](https://www.linkedin.com/in/immanuel-mruk-775958372)
+
+📷 Instagram: [immanuelmruk](https://instagram.com/immanuelmruk) 
+
+💬 Discord: `lytexdev`
 
 ---
 
