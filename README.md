@@ -2,14 +2,12 @@
 
 🚀 **Founder [@lytex](https://www.lytex.de)** – Wir machen Ihr Unternehmen digital sichtbar.
 
-🐧 **Linux & FOSS Enthusiast** – Privacy, Security & Selfhosting
-
-🧬 **Biohacker** – Fokus auf Performance, Gesundheit & Effizienz
+🧬 **Biohacker** - **Software Developer** - **YouTuber**
 
 ---
 
-🌐 **Portfolio:** [me.lytex.dev](https://me.lytex.dev)  
-✉️ **Mail:** [immanuel@lytex.dev](mailto:immanuel@lytex.dev)  
+🌐 **Podcast:** [socials.lytex.de](https://socials.lytex.de)  
+✉️ **Mail:** [info@lytex.de](mailto:info@lytex.de)  
 🔗 **LinkedIn:** [immanuelmruk](https://www.linkedin.com/in/immanuel-mruk-775958372)  
 📷 **Instagram:** [@immanuelmruk](https://instagram.com/immanuelmruk)  
 💬 **Discord:** `lytexdev`  
