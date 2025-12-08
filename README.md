@@ -1,8 +1,8 @@
 <h2>Hey, I'm Immanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h2>
 
-🚀 **Founder [@lytex](https://www.lytex.de)** – Wir machen Ihr Unternehmen digital sichtbar.
+🚀 **Founder [@lytex](https://www.lytex.de)**
 
-🧬 **Biohacker** - **Software Developer** - **YouTuber**
+🧬 **Biohacker** - **Software Developer**
 
 ---
 
