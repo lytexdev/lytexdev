@@ -1,6 +1,6 @@
 <h2>Hey, I'm Immanuel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h2>
 
-🚀 **Founder [@lytex](https://www.lytex.de)**
+🚀 **Founder [@lytex-biohacking](https://www.lytex.de)**
 
 🧬 **Biohacker** - **Software Developer**
 
@@ -13,5 +13,3 @@
 💬 **Discord:** `lytexdev`  
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lytexdev&theme=dark&hide_border=false&layout=compact)
