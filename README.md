@@ -1,25 +1,22 @@
-<h2>Hey, I'm Immanuel aka. lytex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h2>
+<h3>Hi, I'm Immanuel aka. lytex <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/></h3>
 
-🚀 **Founder [@lytex](https://www.lytex.de)**
-
----
-
-🔗 **Socials:** [@lytex](https://lnk.bio/lytex)
-
-🎵 **Music:** [@lydexmusic](https://lnk.bio/lydex)
+A certified IT specialist and software developer with a keen interest in human biology, neuroscience and pharmacology.
 
 ---
 
-**E-Mail:** [info@lytex.de](mailto:info@lytex.de)
+### About Me
 
-**Tiktok:** [@lytex_](https://www.tiktok.com/@lytex_)
-
-**Instagram:** [@_lytex](https://www.instagram.com/_lytex/)
-
-**LinkedIn:** [immanuelmruk](https://www.linkedin.com/in/immanuel-mruk-775958372)
-
-**Spotify:** [@lydex](https://open.spotify.com/artist/614OQAG56uEgyeyCwTBkKV?si=uHWzO8OZT6yO2xu55-Rpmg)
-
-**Discord:** `lydexmusic`
+- 🏋️ Licensed Fitness Trainer
+- 💻 Certified IT Specialist
+- 📈 Building my Company [**LYTEX**](https://www.lytex.de)
+- 🎵 Producing shitty music as [**@lydexmusic**](https://lnk.bio/lydex)
 
 ---
+
+### Connect
+
+**Socials:** [lnk.bio/lytex](https://lnk.bio/lytex)
+
+**E-Mail:** info@lytex.de
+
+**Discord:** `_lytex_`
