@@ -6,7 +6,7 @@ A certified IT specialist and software developer with a keen interest in human b
 
 ### About Me
 
-- 🏋️ Licensed Fitness Trainer
+- 🏋️ soon Licensed Fitness Trainer
 - 💻 Certified IT Specialist
 - 📈 Building my Company [**LYTEX**](https://www.lytex.de)
 - 🎵 Producing shitty music as [**@lydexmusic**](https://lnk.bio/lydex)
